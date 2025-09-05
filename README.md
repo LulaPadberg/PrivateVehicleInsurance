@@ -90,14 +90,14 @@ Experience the platform with:
 
 ## 📹 Demo Materials
 
-### Video Demonstration
+### PrivateVehicleInsurance.mp4
 Complete walkthrough showcasing:
 - Policy creation with encrypted data
 - Confidential claim submission process
 - Private claim review and approval
 - Real-time blockchain interactions
 
-### On-Chain Transaction Examples
+### PrivateVehicleInsurance.png
 Live transaction screenshots demonstrating:
 - Encrypted policy creation transactions
 - Private claim submission with FHE data
